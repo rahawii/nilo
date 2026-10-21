@@ -11,8 +11,7 @@ Keys:
     CTRL-Q: Quit
     CTRL-F: Find string in file (ESC to exit search, arrows to navigate)
 
-Nilo does not depend on any library (not even curses). It uses fairly standard
-VT100 (and similar terminals) escape sequences. (Forked by kilo for setup), + Some 
+It uses fairly standard VT100 (and similar terminals) escape sequences. (Forked by kilo for setup), + Some 
 Features and Fix Behavior.
 
 Nilo was written by Nawar Alsafadi aka Rahawii and is released
