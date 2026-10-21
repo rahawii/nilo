@@ -1,8 +1,10 @@
-/* Nilo -- A very simple editor in less than 1K lines of code.
+/* Nilo (Modified Version of Kilo) -- A very simple editor in less than 1K lines of code.
  *
  * -----------------------------------------------------------------------
  *
- * Copyright (C) 2026 Nawar Alsafadi (Rahawii) <nawaralsafadi 1 att gmail dot com>
+ * Original Kilo Copyright:
+ *
+ * Copyright (C) 2016 Salvatore Sanfilippo <antirez at gmail dot com>
  *
  * All rights reserved.
  *
@@ -28,6 +30,13 @@
  * THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ *
+ * Nilo Copyright :
+ *
+ * Copyright (C) 2026 Nawar Alsafadi (Rahawii) <nawaralsafadi 1 att gmail dot com>
+ *
+ * Licensed under the BSD 2-Clause License.
+ * See LICENSE for the full terms.
  */
 
 #define NILO_VERSION "0.0.1"
